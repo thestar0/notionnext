@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '安全沉思录',
   HEO_HERO_TITLE_2: '记录所思',
   HEO_HERO_TITLE_3: 'thestar0.site',
-  HEO_HERO_TITLE_4: ':',
-  HEO_HERO_TITLE_5: '',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '安全对抗的本质是人与人的对抗',
   HEO_HERO_TITLE_LINK: 'https://thestar0.site',
 
   // 英雄区显示三个置顶分类
