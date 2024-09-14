@@ -8,7 +8,6 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '失败总是贯穿人生始终', url: 'https://thestar0.site' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,10 +17,10 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '安全沉思录',
-  HEO_HERO_TITLE_2: '写点有意思的东西',
+  HEO_HERO_TITLE_2: '记录所思',
   HEO_HERO_TITLE_3: 'thestar0.site',
-  HEO_HERO_TITLE_4: 'Github地址:',
-  HEO_HERO_TITLE_5: 'https://github.com/thestar0',
+  HEO_HERO_TITLE_4: ':',
+  HEO_HERO_TITLE_5: '',
   HEO_HERO_TITLE_LINK: 'https://thestar0.site',
 
   // 英雄区显示三个置顶分类
