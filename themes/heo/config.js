@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '', url: 'https://thestar0.site' },
+    { title: '失败总是贯穿人生始终', url: 'https://thestar0.site' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -42,9 +42,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/thestar0',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://www.thestar0.site',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
