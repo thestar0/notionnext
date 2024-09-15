@@ -49,28 +49,28 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
-      color_1: '#57b6e6',
+      title_1: 'Nmap',
+      img_1: '/images/heo/nmap.webp',
+      color_1: '#ffffff',
       title_2: 'cs',
       img_2: '/images/heo/cs.webp',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
-      title_1: 'cs',
+      title_1: 'yakit',
       img_1: '/images/heo/yakit.webp',
-      color_1: '#f29e39',
-      title_2: 'CS',
-      img_2: '/images/heo/cs.webp',
-      color_2: '#2c51db'
+      color_1: '#ffffff',
+      title_2: 'goby',
+      img_2: '/images/heo/goby.webp',
+      color_2: '#ffffff'
     },
     {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
-      color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
-      color_2: '#1f1f1f'
+      title_1: 'bp',
+      img_1: '/images/heo/bp.webp',
+      color_1: '#ffffff',
+      title_2: 'ant',
+      img_2: '/images/heo/ant.webp',
+      color_2: '#ffffff'
     }
   ],
 
