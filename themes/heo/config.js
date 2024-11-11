@@ -40,11 +40,13 @@ const CONFIG = {
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
+  HEO_INFO_CARD_TEXT1: '关于我',
+  // HEO_INFO_CARD_URL3: 'https://www.thestar0.site',
+  // HEO_INFO_CARD_ICON3: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/thestar0',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  // HEO_INFO_CARD_URL3: 'https://www.thestar0.site',
-  // HEO_INFO_CARD_TEXT3: '了解更多',
+ 
+  
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
